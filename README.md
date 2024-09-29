@@ -20,5 +20,5 @@ Your Backend is ready
 Now Add extention By selecting "Load unpacked" in developer mode 
 Select Location of Popup.html that is in 
 ```
-django-webinterface\aibot\templates\popup.html
+django-webinterface\aibot
 ```

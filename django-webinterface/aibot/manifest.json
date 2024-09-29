@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "ChatBot Extension",
+  "version": "1.0",
+  "description": "A simple chatbot for normal conversation.",
+  "action": {
+    "default_popup": "templates/popup.html",
+    "default_icon": {
+      "16": "./static/icon16.png",
+      "48": "./static/icon48.png",
+      "128": "./static/icon128.png"
+    }
+  },
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "static/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["static/styles.css"],
+      "js": ["static/popup.js"]
+    }
+  ]
+
+}

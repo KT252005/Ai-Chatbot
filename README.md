@@ -7,7 +7,9 @@ git clone "https://github.com/KT252005/Ai-Chatbot.git"
 ```
 
 Then Create Virtual Environment :
-\n Command:
+
+
+Command:
 ``` python -m venv "Your_wanted_env_Name"    ```
 
 Then install dependencies by running the following commands :
@@ -16,7 +18,9 @@ pip install -r "requirements.txt"
 ```
 
 *Create Gemini Api Key via this website :point_right:[Create Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key)
-\n Put in .env file Variable Api_key input 
+
+
+Put in .env file Variable Api_key input 
 
 ***
 Now you good to go 

@@ -36,5 +36,6 @@ django-webinterface\aibot
 ```
 
 Here the pic of extension :
+<br>
 ![image](https://github.com/user-attachments/assets/cae74f9a-1c35-451d-995b-47e47902b1c6)
 

@@ -34,3 +34,7 @@ Select Location of Popup.html that is in
 ```
 django-webinterface\aibot
 ```
+
+Here the pic of extension :
+![image](https://github.com/user-attachments/assets/cae74f9a-1c35-451d-995b-47e47902b1c6)
+
